@@ -1,0 +1,169 @@
+{
+  "personalInfo": {
+    "name": "Gopal Katariya",
+    "title": "AI & Python Developer",
+    "tagline": "Crafting Smart Solutions with Intelligence",
+    "description": "Passionate about bridging cutting-edge AI research with real-world applications.",
+    "profileImage": "@assets/profile_1750940284076.jpg",
+    "location": "Surat, Gujarat - 394325",
+    "email": "katariyagopal60@gmail.com",
+    "phone": "+91 72290 16860",
+    "portfolioUrl": "https://gopalkatariya.com",
+    "blogUrl": "https://gopalkatariya.medium.com/"
+  },
+  "socialLinks": [
+    {
+      "icon": "Github",
+      "href": "https://github.com/gopalkatariya",
+      "label": "GitHub",
+      "color": "text-gray-700 hover:text-gray-900"
+    },
+    {
+      "icon": "Twitter",
+      "href": "https://twitter.com/gopalkatariya",
+      "label": "X (Twitter)",
+      "color": "text-blue-500 hover:text-blue-600"
+    },
+    {
+      "icon": "Instagram",
+      "href": "https://instagram.com/gopalkatariya",
+      "label": "Instagram",
+      "color": "text-pink-500 hover:text-pink-600"
+    },
+    {
+      "icon": "SiDiscord",
+      "href": "https://discord.com/users/gopalkatariya",
+      "label": "Discord",
+      "color": "text-indigo-500 hover:text-indigo-600"
+    },
+    {
+      "icon": "Linkedin",
+      "href": "https://linkedin.com/in/gopalkatariya",
+      "label": "LinkedIn",
+      "color": "text-blue-600 hover:text-blue-700"
+    },
+    {
+      "icon": "Youtube",
+      "href": "https://youtube.com/@gopalkatariya",
+      "label": "YouTube",
+      "color": "text-red-500 hover:text-red-600"
+    }
+  ],
+  "contactInfo": [
+    {
+      "icon": "Mail",
+      "title": "Email",
+      "value": "katariyagopal60@gmail.com",
+      "href": "mailto:katariyagopal60@gmail.com",
+      "bgColor": "bg-blue-100",
+      "iconColor": "text-blue-600"
+    },
+    {
+      "icon": "MapPin",
+      "title": "Location",
+      "value": "Surat, Gujarat - 394325",
+      "href": null,
+      "bgColor": "bg-purple-100",
+      "iconColor": "text-purple-600"
+    }
+  ],
+  "aboutContent": {
+    "title": "About Me",
+    "paragraphs": [
+      "I'm a passionate AI & Machine Learning Engineer with expertise in Python development and computer vision. With a strong foundation in artificial intelligence and backend technologies, I craft innovative solutions that bridge the gap between cutting-edge AI research and real-world applications.",
+      "My journey in technology is driven by curiosity and the desire to build systems that make a meaningful impact. From developing AI chatbots that enhance user engagement to creating computer vision systems with exceptional accuracy, I thrive on solving complex challenges with elegant, scalable solutions."
+    ]
+  },
+  "techStack": [
+    { "name": "Python", "category": "Language", "icon": "SiPython", "color": "text-blue-600" },
+    { "name": "LangChain", "category": "AI/ML", "icon": null, "color": "text-green-600" },
+    { "name": "TensorFlow", "category": "AI/ML", "icon": "SiTensorflow", "color": "text-orange-600" },
+    { "name": "PyTorch", "category": "AI/ML", "icon": "SiPytorch", "color": "text-red-600" },
+    { "name": "OpenCV", "category": "Computer Vision", "icon": "SiOpencv", "color": "text-purple-600" },
+    { "name": "FastAPI", "category": "Backend", "icon": "SiFastapi", "color": "text-green-600" },
+    { "name": "Django", "category": "Backend", "icon": "SiDjango", "color": "text-green-800" },
+    { "name": "PostgreSQL", "category": "Database", "icon": "SiPostgresql", "color": "text-blue-600" },
+    { "name": "MySQL", "category": "Database", "icon": "SiMysql", "color": "text-blue-600" },
+    { "name": "MongoDB", "category": "Database", "icon": "SiMongodb", "color": "text-green-600" },
+    { "name": "Docker", "category": "DevOps", "icon": "SiDocker", "color": "text-blue-500" },
+    { "name": "AWS", "category": "Cloud", "icon": "SiAmazon", "color": "text-orange-600" },
+    { "name": "GCP", "category": "Cloud", "icon": "SiGooglecloud", "color": "text-blue-600" },
+    { "name": "Git", "category": "Version Control", "icon": "SiGit", "color": "text-orange-600" }
+  ],
+  "workExperience": [
+    {
+      "title": "Python with AIML Developer",
+      "company": "DIFFERENZ SYSTEM",
+      "period": "Jul 2024 - Present",
+      "location": "Surat, India",
+      "description": "Leading AI chatbot development and backend optimization",
+      "achievements": [
+        "Built AI chatbots using LangChain and Gemini, leading to a 40% boost in user engagement",
+        "Developed custom image/video generation tools with Stable Diffusion",
+        "Automated tax calculations through a chatbot, cutting manual queries by 50%",
+        "Streamlined workflows via Docker and Make.com, increasing team efficiency by 35%"
+      ],
+      "color": "bg-blue-600"
+    },
+    {
+      "title": "Python with AI Intern",
+      "company": "AXISRAY",
+      "period": "Jan 2024 - Apr 2024",
+      "location": "Ahmedabad, India",
+      "description": "Enhanced Drive Inspector project with advanced computer vision",
+      "achievements": [
+        "Improved Indian number plate detection accuracy to 90%",
+        "Created robust custom datasets enhancing model training effectiveness by 40%",
+        "Built admin dashboard increasing decision-making efficiency by 25%"
+      ],
+      "color": "bg-green-600"
+    },
+    {
+      "title": "AI Development Intern",
+      "company": "TUSKERAI PRIVATE LIMITED",
+      "period": "Aug 2022 - Mar 2023",
+      "location": "Ahmedabad, India",
+      "description": "Contributed to multiple AI projects in computer vision",
+      "achievements": [
+        "Developed person counting system with 91% accuracy",
+        "Built number plate recognition system with 92% accuracy",
+        "Created fire and smoke detection system with 85% accuracy",
+        "Prepared 80 computer vision datasets in YOLO TXT format"
+      ],
+      "color": "bg-purple-600"
+    }
+  ],
+  "featuredProjects": [
+    {
+      "title": "AI Tax Calculation Chatbot",
+      "description": "Built with LangChain and Gemini, reducing manual queries by 50% and boosting user engagement by 40%.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
+      "technologies": ["Python", "LangChain", "Gemini", "FastAPI"]
+    },
+    {
+      "title": "Drive Inspector with OCR",
+      "description": "Enhanced number plate detection with 90% accuracy using custom datasets and RTO database integration.",
+      "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
+      "technologies": ["Python", "OpenCV", "Ultralytics", "OCR"]
+    },
+    {
+      "title": "Expense Tracking with AWS OCR",
+      "description": "Integrated AWS Textract for automated expense tracking, reducing manual data entry by 40%.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
+      "technologies": ["Python", "FastAPI", "AWS Textract", "MySQL"]
+    },
+    {
+      "title": "E-commerce Backend Platform",
+      "description": "Scalable backend with Django REST Framework, role-based access control, and AWS deployment.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
+      "technologies": ["Django", "PostgreSQL", "AWS", "Docker"]
+    }
+  ],
+  "blogContent": {
+    "title": "Read My Blog",
+    "description": "Dive into my thoughts on AI, machine learning, and cutting-edge technology. I share insights, tutorials, and experiences from my journey in the world of artificial intelligence.",
+    "buttonText": "Visit Medium Blog"
+  },
+  "contactFormUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdK27EnKXW0lYf44CbsJedVe9ZmelGF5rHZpi3-7Z-IPs3ypg/viewform?embedded=true",
+  "copyright": "© 2025 Gopal Katariya. All rights reserved."
+}
